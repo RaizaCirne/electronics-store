@@ -1,1 +1,0 @@
-# Aprendizados - JS antes do React 
